@@ -13,6 +13,7 @@ namespace Tyuiu.CherepanovVS.Sprint0.Task2.V0
         {
             Console.WriteLine(DataService.GetMessage("Вячеслав"));
             Console.ReadKey();
+
         }
     }
 }
